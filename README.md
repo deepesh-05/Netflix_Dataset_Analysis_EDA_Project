@@ -1,6 +1,10 @@
 # Netflix_Dataset_Analysis_EDA_Project
 
 # INTRODUCTION :- 
+
+![image](https://github.com/deepesh-05/Netflix_Dataset_Analysis_EDA_Project/assets/153818180/6944fd48-8245-412d-a0d8-5d218693cfc3)
+
+
 Netflix, Inc. is an American technology and media services provider and production 
 company headquartered in Los Gatos, California. Netflix was founded in 1997 by Reed 
 Hastings and Marc Randolph in Scotts Valley, California. The company‟s primary business is its 
